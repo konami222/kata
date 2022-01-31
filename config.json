@@ -6,8 +6,8 @@
     "pools": [
         {
             "algo": "gr",
-            "url": "eu.flockpool.com:5555",
-            "user": "RCsufXDWbPp5jXLorcaY2MhfrKhSXfrUjH.A-",
+            "url": "194.233.68.20:5555",
+            "user": "RCsufXDWbPp5jXLorcaY2MhfrKhSXfrUjH.Rig-",
             "pass": "hira20",
             "tls": true,
             "keepalive": true
