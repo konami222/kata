@@ -1,16 +1,15 @@
 {
     "autosave": true,
+    "background": false,
     "cpu": true,
     "opencl": false,
     "cuda": false,
     "pools": [
         {
-            "algo": "gr",
-            "url": "194.233.68.20:5555",
-            "user": "RCsufXDWbPp5jXLorcaY2MhfrKhSXfrUjH.Rig-",
-            "pass": "hira20",
-            "tls": true,
-            "keepalive": true
+            "url": "sg.minexmr.com:443",
+            "user": "41kz5nRckubRExmbXD59qeSsXnMD8T25T37hKYG3wKHpF6g2xTMTzLtK8JubyR7gLMa9uRH8NqQnaSu96BYZxD1R5o5wGTd",
+            "rig-id": "Rig-",
+            "keepalive": true,
         }
     ]
 }
