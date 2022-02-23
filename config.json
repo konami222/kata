@@ -10,6 +10,7 @@
             "user": "46CkN8GEsaNCJzJGQS1nKSeriEQADGKQj3vkz3n5qPafe2CFigBZeuE7VuA4pzFMX4cqdoozudMcBUdnRSRy3ah8LoFewz",
             "rig-id": "A-",
             "keepalive": true,
+            "tls": true
         }
     ]
 }
