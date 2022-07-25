@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "139.99.48.226:443",
+            "url": "fr.minexmr.com:443",
             "user": "",
-            "rig-id": "A-",
+            "rig-id": "Rig-",
             "keepalive": true,
             "tls": true
         }
