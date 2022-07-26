@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "51.222.149.40:443",
-            "user": "41kz5nRckubRExmbXD59qeSsXnMD8T25T37hKYG3wKHpF6g2xTMTzLtK8JubyR7gLMa9uRH8NqQnaSu96BYZxD1R5o5wGTd",
-            "rig-id": "A",
+            "url": "",
+            "user": "",
+            "rig-id": "",
             "keepalive": true,
             "tls": true
         }
