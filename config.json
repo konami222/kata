@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "",
-            "user": "4B1Mj8odgtMQAEmJvtQRL2cWmxWzay7atbfjooJxUHW3Rup4jAzNSs6MpEgvjU1zCLKvXuunAFJSFasMsmRQtFYW5iD6fz8",
+            "user": "",
             "rig-id": "",
             "keepalive": true,
             "tls": true
