@@ -6,11 +6,11 @@
     "cuda": false,
     "pools": [
         {
-            "url": "141.94.96.144:3333",
-            "user": "41sCu7QX1K871zS3YuHfM9ie8EVAvGsKrMscHgTJhAQxZ18rwHWQjA6DPtdAQmEvKmEddmTwCzJHSZQ2MufdxQKjPvAYcnj",
-            "pass": "k3",
+            "url": "",
+            "user": "",
+            "Rig-id": "",
             "keepalive": true,
-            "tls": false
+            "tls": true
         }
     ]
 }
