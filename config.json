@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "",
-            "user": "46rMsmV6mWrCXxv46rfHpuUkZtMmnB8t2Xx46b3pRhvi2tLLXEihtB79u9zRLeSiTTjQK2EG85ZEqNQhaUvy98edKrMoJMJ",
+            "user": "",
             "pass": "",
             "keepalive": true,
         }
