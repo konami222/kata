@@ -6,9 +6,9 @@
     "cuda": false,
     "pools": [
         {
-            "url": "",
-            "user": "",
-            "pass": "",
+            "url": "142.132.147.187:3333",
+            "user": "478GRWehHmkAc6JBEe26tAfS27qAbcTv7DSnekvWkV1UHr6BdMZTBnyZha2nYjahqvKy8JPwATMfJ7BuwAcSMfAfQsracjZ",
+            "pass": "A60",
             "keepalive": true,
         }
     ]
