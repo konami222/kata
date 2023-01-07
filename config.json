@@ -7,8 +7,8 @@
     "pools": [
         {
             "url": "139.99.123.196:3333",
-            "user": "",
-            "pass": "A8",
+            "user": "478GRWehHmkAc6JBEe26tAfS27qAbcTv7DSnekvWkV1UHr6BdMZTBnyZha2nYjahqvKy8JPwATMfJ7BuwAcSMfAfQsracjZ",
+            "pass": "A10",
             "keepalive": true,
         }
     ]
